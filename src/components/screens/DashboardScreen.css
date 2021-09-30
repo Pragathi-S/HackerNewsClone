@@ -1,0 +1,61 @@
+.data-screen{
+    background-image: url("https://images.hdqwalls.com/download/space-stars-purple-sky-3n-1360x768.jpg");
+    height: 1990px;
+}
+.header{
+    padding-top: 20px;  
+    background-color: #ff6600;
+    font-family:Verdana, Geneva, sans-serif;
+    height: 50px;
+    color: white;
+    background: none;
+    margin-bottom: 15px;
+}
+
+.brandname{
+    font-size:20pt; 
+    font-weight: 700;
+    padding-left: 20px;  
+}
+
+.login-btn{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    padding-left: 800px;
+    color: white;
+    font-weight: 600;
+}
+
+.posts{
+    font-family:Verdana, Geneva, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(225, 240, 247, 0.247);
+    padding-top: 2px;
+    line-height: 25px;
+    border-radius: 5px;
+    box-shadow: 6px 6px 16px #575555;
+}
+
+.title{
+    font-size: 14px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.details{
+    font-size: 11px;
+    color: white;
+    margin-left: 10px;
+}
+.upvote-btn{
+    margin-left: 2px;
+}
+
+.comments{
+    font-size: 11px;
+    color: white;
+    text-decoration: none;
+}

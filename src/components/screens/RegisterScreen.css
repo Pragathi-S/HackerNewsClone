@@ -1,0 +1,59 @@
+.screen{
+    background-image: url("https://www.teahub.io/photos/full/358-3584284_purple-background-anime-space.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 605px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.register-screen{
+    height: 200px;
+    width: 315px;
+    padding-left: 40%;
+    padding-top: 15%;
+}
+
+.register-form, .form-title, .register-button, .input-label, .input{
+    background-image: none;
+    background-color: white;
+}
+
+.register-form{
+    margin-top: 10px;
+    border: 10px solid white;
+    border-radius: 5px;
+    padding-bottom: 15px;
+    padding-left:15px;
+    padding-right:15px;
+    box-shadow: 6px 6px 8px rgb(46, 45, 46);
+}
+
+.register-button{
+    margin-left: 100px;
+    border: 1px solid white;
+    background-color: #070707;
+    height: 25px;
+    width: 65px;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+}
+
+.register-title{
+    margin-left: 55px;
+    margin-bottom: 30px;
+}
+
+.input-label, .input{
+    font-size: 13.5px;
+    margin-left: 9px;
+}
+
+.input-label{
+    margin-left: 20px;
+}
+
+.input{
+    border: 1px solid grey;
+    border-radius: 2px;
+}
